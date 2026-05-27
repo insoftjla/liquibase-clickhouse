@@ -62,6 +62,7 @@ The configuration file must be located in the application classpath
 This allows using multiple ClickHouse datasources in the same application,
 where some datasources use cluster mode, others work in standalone mode,
 or are connected to different ClickHouse clusters.
+<hr/>
 
 ###### Important changes
  - 0.8.5:
